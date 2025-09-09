@@ -327,7 +327,6 @@ images/
 *.webm
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
